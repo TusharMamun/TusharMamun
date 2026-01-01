@@ -8,8 +8,8 @@
 <!-- Profile / Banner Image -->
 <p align="center">
   <img 
-    src="https://ibb.co.com/prkLjHgd" 
-    alt="Tushar Mamun Banner" 
+    src="https://i.ibb.co/prkLjHgd/cover.png"
+    alt="Tushar Mamun | Frontend Developer"
     width="700"
     style="border-radius:12px;"
   />
