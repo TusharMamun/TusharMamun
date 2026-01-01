@@ -8,7 +8,7 @@
 <!-- Profile / Banner Image -->
 <p align="center">
   <img 
-    src="https://i.ibb.co/Q77ZnN0C/your-image.png" 
+    src="https://ibb.co.com/prkLjHgd" 
     alt="Tushar Mamun Banner" 
     width="700"
     style="border-radius:12px;"
